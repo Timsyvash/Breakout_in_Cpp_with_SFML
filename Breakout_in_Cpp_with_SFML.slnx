@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Breakout_in_Cpp_with_SFML/Breakout_in_Cpp_with_SFML.vcxproj" Id="e7348f77-ce9d-4846-a1ec-afe718d1bc85" />
+</Solution>
